@@ -1,0 +1,11 @@
+sort1 uses: Bubble
+
+How do you know?: Since we know that sort2 is merge sort, we can conclude that sort1 is bubble sort because of its fast performance when the number are sorted (best case scenario), like in sorted50000.txt
+
+sort2 uses: Merge
+
+How do you know?: It was the one who performed the fastest overall, and especially with the file random50000.txt
+
+sort3 uses: Selection
+
+How do you know?: We know is selection sort because it performs pretty similar no matter best/worst case scenario, and it was the worst performance with sorted numbers (sorted50000.txt)
